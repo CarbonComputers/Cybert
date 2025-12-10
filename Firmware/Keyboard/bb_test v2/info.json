@@ -1,0 +1,82 @@
+{
+    "keyboard_name": "punkt_keypad",
+    "manufacturer": "Ceynetics",
+    "maintainer": "Ceynetics",
+    "bootloader": "rp2040",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": false,
+        "mousekey": true,
+        "extrakey": true,
+        "console": false,
+        "command": false,
+        "nkro": false,
+        "rgblight": false,
+        "audio": false
+    },
+    "backlight": {
+        "levels": 1,
+        "pin": "GP22"
+    },
+    "matrix_pins": {
+        "cols": ["GP28", "GP21", "GP19", "GP18", "GP17", "GP16", "GP11", "GP10", "GP9", "GP8"],
+        "rows": ["GP25", "GP26", "GP27", "GP29"]
+    },
+    "processor": "RP2040",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x804A",
+        "vid": "0x6F75"
+    },
+    "split": {
+        "enabled": false
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label":"Q", "matrix": [0, 0], "x":0, "y":0},
+                {"label":"W", "matrix": [0, 1], "x":1, "y":0},
+                {"label":"E", "matrix": [0, 2], "x":2, "y":0},
+                {"label":"R", "matrix": [0, 3], "x":3, "y":0},
+                {"label":"T", "matrix": [0, 4], "x":4, "y":0},
+                {"label":"Y", "matrix": [0, 5], "x":5, "y":0},
+                {"label":"U", "matrix": [0, 6], "x":6, "y":0},
+                {"label":"I", "matrix": [0, 7], "x":7, "y":0},
+                {"label":"O", "matrix": [0, 8], "x":8, "y":0},
+                {"label":"P", "matrix": [0, 9], "x":9, "y":0},
+
+                {"label":"A", "matrix": [1, 0], "x":0, "y":1},
+                {"label":"S", "matrix": [1, 1], "x":1, "y":1},
+                {"label":"D", "matrix": [1, 2], "x":2, "y":1},
+                {"label":"F", "matrix": [1, 3], "x":3, "y":1},
+                {"label":"G", "matrix": [1, 4], "x":4, "y":1},
+                {"label":"H", "matrix": [1, 5], "x":5, "y":1},
+                {"label":"J", "matrix": [1, 6], "x":6, "y":1},
+                {"label":"K", "matrix": [1, 7], "x":7, "y":1},
+                {"label":"L", "matrix": [1, 8], "x":8, "y":1},
+                {"label":"Back Space", "matrix": [1, 9], "x":9, "y":1},
+
+                {"label":"SHFT", "matrix": [2, 0], "x":0, "y":2},
+                {"label":"Z", "matrix": [2, 1], "x":1, "y":2},
+                {"label":"X", "matrix": [2, 2], "x":2, "y":2},
+                {"label":"C", "matrix": [2, 3], "x":3, "y":2},
+                {"label":"V", "matrix": [2, 4], "x":4, "y":2},
+                {"label":"B", "matrix": [2, 5], "x":5, "y":2},
+                {"label":"N", "matrix": [2, 6], "x":6, "y":2},
+                {"label":"M", "matrix": [2, 7], "x":7, "y":2},
+                {"label":",", "matrix": [2, 8], "x":8, "y":2},
+                {"label":"Return", "matrix": [2, 9], "x":9, "y":2},
+
+                {"label":"Fn", "matrix": [3, 0], "x":0, "y":3},
+                {"label":"Alt", "matrix": [3, 1], "x":1, "y":3},
+                {"label":"Super", "matrix": [3, 2], "x":2, "y":3},
+                {"label":"Space", "matrix": [3, 5],"x":3, "y":3, "w":4},
+                {"label":"Ctrl", "matrix": [3, 7], "x":7, "y":3},
+                {"label":"&uarr;", "matrix": [3, 8], "x":8, "y":3},
+                {"label":"&darr;", "matrix": [3, 9], "x":9, "y":3}
+            ]
+        }
+    }
+
+
+}

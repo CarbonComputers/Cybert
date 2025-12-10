@@ -1,0 +1,10 @@
+#define hsize 720
+#define vsize 720
+
+#define HBP        25
+#define HFP        25
+#define HSPW       6
+
+#define VBP        17//17//10//25
+#define VFP        20//15//10//25
+#define VSPW       2//7//4//10

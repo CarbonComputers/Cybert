@@ -1,5 +1,9 @@
 # Cybert — Raspberry Pi CM5 Handheld Terminal
 
+Order at:
+[CarbonComputers.us]
+(https://carboncomputers.us/products/cybert-raspberry-pi-cm5-terminal)
+
 Cybert is a compact, modular handheld terminal built around the Raspberry Pi Compute Module 5 (CM5).  
 It’s designed for makers, pentesters, IT professionals, students — anyone who needs portable Linux power in a small, customizable footprint.
 
@@ -22,11 +26,11 @@ It’s designed for makers, pentesters, IT professionals, students — anyone wh
 
 Depending on the version you choose, the kit may include:  
 - Enclosure (case)  
-- Compatible display mount or instructions for supported display  
-- Internal wiring / connectors  
+- Compatible display mount and instructions for supported display  
+- Internal wiring/connectors  
 - USB port layout & headers  
-- Battery compartment or wiring for battery connection  
-- PCB / carrier board for CM5 (if included in the kit)  
+- Battery compartment and wiring for battery connection  
+- PCB / carrier board for CM5 
 
 > ⚠️ Note: If you purchase the *barebones* variant — the CM5 board, storage media, and optional cooler are **not included** and must be provided separately by the user.
 
@@ -36,11 +40,12 @@ Depending on the version you choose, the kit may include:
 
 | Component | Notes |
 |----------|-------|
-| Displays | Compatible with supported TFT/IPS screens (e.g. 3.95” 720×720 IPS) |
+| Displays | Compatible with supported TFT/IPS screens (3.95” 720×720 IPS) link (https://www.buydisplay.com/square-3-95-inch-720x720-ips-tft-lcd-display-rgb-interface) |
+| Touch Sensor | Blackberry 9900 Bold 4 Trackpad Sensor link (https://www.cellspare.com/blackberry-bold-4-9900-trackpad-sensor-module)
 | CM5 Variants | 4 GB, 8 GB, or 16 GB — all supported |
-| Cooling | Low-profile active coolers recommended for extended use |
-| Storage | MicroSD for OS; M.2/SSD or other modules supported via expansion (if applicable) |
-| Power | Use compatible LiPo, check battery compartment size, connect safely |
+| Cooling | Low-profile passive or active coolers recommended for extended use |
+| Storage | MicroSD for OS; M.2/SSD or other modules supported via expansion |
+| Power | Use compatible LiPo, check battery compartment size, connect safely, check polarity first Dim 5 x 55 x 70mm (https://a.co/d/gQhkSEN) |
 
 ---
 

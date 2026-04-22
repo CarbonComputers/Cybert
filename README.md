@@ -46,7 +46,7 @@ Depending on the version you choose, the kit may include:
 | Cooling | Low-profile passive or active coolers recommended for extended use |
 | Storage | MicroSD for OS; M.2/SSD or other modules supported via expansion |
 | Power | Use compatible LiPo, check battery compartment size, connect safely, check polarity first Dim 5 x 55 x 70mm (https://a.co/d/gQhkSEN) |
-| Power Switch | 4-position slider - Part Number SSSS812201 |
+| Power Switch | 3-position slider - Part Number SSSS812201 |
 
 ---
 
